@@ -1,0 +1,28 @@
+{
+  "name": "hangman-terminal-app",
+  "version": "1.0.0",
+  "description": "hangman js game in terminal using inquirer and node.js",
+  "main": "hangmanII.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unionindesign/hangman-terminal-app.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "inquirer",
+    "hangman"
+  ],
+  "author": "SM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unionindesign/hangman-terminal-app/issues"
+  },
+  "homepage": "https://github.com/Unionindesign/hangman-terminal-app#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
