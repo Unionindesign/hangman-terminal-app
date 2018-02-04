@@ -15,6 +15,7 @@ function startGame () {
 startGame();
 
 function letterChecker () {
+    //adding some comments for gitTest1
     
 }
 
